@@ -1,0 +1,22 @@
+{
+  "name": "crypto-asset-recovery-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wounded-Knee/Wounded-Knee.github.io.git"
+  },
+  "author": "Heyoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wounded-Knee/Wounded-Knee.github.io/issues"
+  },
+  "homepage": "https://github.com/Wounded-Knee/Wounded-Knee.github.io#readme",
+  "dependencies": {
+    "staticrypt": "^3.5.0"
+  }
+}
